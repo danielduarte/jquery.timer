@@ -1,0 +1,14 @@
+Future work
+-----------
+
+@feature Add jQuery chain support.
+
+
+@feature Add support for 'this' inside the user callback, to mention the timer closure.
+
+
+@feature Add support for pausing, and continuing taking into account the already elapsed time.
+
+@feature Add support to get elapsed time from last tick.
+
+@improvement Include minimized version of the plugin in the package (jquery.timer.min.js).
