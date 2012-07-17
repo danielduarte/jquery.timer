@@ -1,11 +1,11 @@
-/*
- * jQuery plugin: timer
+/*!
+ * jQuery plugin: jquery.timer
  * 
  * jQuery plugin to set up temporized events that can execute a user callback
  * repeatedly or only one time, after the specified period of time.
  * @author Daniel David Duarte
  * @version 1.0.0
- * @license BSD (included in package)
+ * @license See LICENTE file included in package
  */
  
 /**

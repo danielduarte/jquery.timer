@@ -12,3 +12,4 @@ Features
 Improvements
 ------------
 - Include minimized version of the plugin in the package (jquery.timer.min.js).
+- Add support for 'this' inside the user callback, to mention the timer closure.
