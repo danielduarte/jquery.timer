@@ -12,7 +12,9 @@ Usage
 -----
 
 1) Include jQuery in your page.
+
 2) Include the jQuery.time plugin (jquery.timer.js located in src/ folder of this package).
+
 3) Just call $.timer(options) with your options.
 For more detail see demo/index.html inside this package.
 
